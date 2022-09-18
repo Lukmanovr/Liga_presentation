@@ -12,10 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/</guid>
-      <description>Hello world! This is my first slide.+++ title = &amp;ldquo;My presentation&amp;rdquo; outputs = [&amp;ldquo;Reveal&amp;rdquo;] +++
-Hello world! This is my first slide.
-Hello world! This is my first slide.
-Hello Mars! This is my second slide.</description>
+      <description>Hello world! This is my first slide.</description>
     </item>
     
   </channel>
