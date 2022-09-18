@@ -3,7 +3,7 @@ title = "My presentation"
 outputs = ["Reveal"]
 +++
 
-{{< slide background-image="slide_1.jpg" background="#FFD" >}}
+{{< slide background-image="slide_1.jpg" background="#FFD" data-background-size="contain" >}}
 
 ---
 
@@ -29,6 +29,8 @@ Leonhard Euler in 1736.
 applied to solve both descriptive and predictive problems in
 experimental natural sciences, especially in chemistry.
 ```
+
+<img src="drawing.jpg" alt="drawing" width="200"/>
 
 ---
 
