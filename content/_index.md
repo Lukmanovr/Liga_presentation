@@ -24,8 +24,8 @@ capacity, but have little descriptive power (black-box models)
 ```
 
 ```javascript
-So what to do when you do not know yourself labels of the data and
-even not sure about the quality, can it be relied upon?
+So what to do when you do not know labels of the data and
+even not sure about the quality, can data be relied upon?
 ```
 
 ---
@@ -37,8 +37,9 @@ even not sure about the quality, can it be relied upon?
 <small><b>\*\*emphasis of the talk \*\*</b></small>
 
 ```python
-Visual interactive graph intelligence build on complex data for
-particular need of scientists vs. general exploratory data analysis
+interactive graph intelligence build on complex and non-linear
+data for the particular need of a scientist vs. general
+exploratory data analysis
 ```
 
 ```python
