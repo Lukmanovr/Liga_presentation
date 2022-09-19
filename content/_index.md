@@ -37,8 +37,7 @@ even not sure about the quality, can data be relied upon?
 <small><b>\*\*emphasis of the talk \*\*</b></small>
 
 ```python
-interactive graph intelligence build on complex and non-linear
-data for the particular need of a scientist vs. general
+interactive graph intelligence vs. general
 exploratory data analysis
 ```
 
