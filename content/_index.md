@@ -49,7 +49,7 @@ Combination of data-viz and machine learning
 
 ---
 
-{{< slide id="hello" background="#4A686A" transition="zoom" transition-speed="fast" >}}
+{{< slide background="#4A686A" transition="zoom" transition-speed="fast" >}}
 
 #### Outline
 
