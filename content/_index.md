@@ -3,13 +3,13 @@ title = "My presentation"
 outputs = ["Reveal"]
 +++
 
-{{< slide background-image="slide_1.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="hello" background-image="slide_1.jpg" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 ---
 
 {{% section %}}
-{{< slide id="hello" background="#e9692c" transition="slide" transition-speed="fast" >}}
+{{< slide background="#e9692c" transition="slide" transition-speed="fast" >}}
 
 #### Elephant in the room?
 
