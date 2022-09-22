@@ -30,7 +30,7 @@ even not sure about the quality, can data be relied upon?
 
 ---
 
-{{< slide id="hello" background="#97cf8a" transition="zoom" transition-speed="fast" >}}
+{{< slide background="#97cf8a" transition="zoom" transition-speed="fast" >}}
 
 #### Human tools for the data age?
 
