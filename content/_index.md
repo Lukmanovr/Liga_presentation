@@ -3,11 +3,11 @@ title = "My presentation"
 outputs = ["Reveal"]
 +++
 
-{{< slide id="Intro" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="Hello" background-image="slide_1_blur.jpg" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_1.jpg" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;"src="slide_1.jpg" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
@@ -80,7 +80,7 @@ def conclusions (summarize)
 {{< slide id="3" background-image="slide_3_blur.jpg" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img src="slide_3.jpg" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="slide_3.jpg" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
@@ -90,7 +90,7 @@ data-background-repeat="no-repeat">}}
 {{< slide id="4" background-image="blur.jpg" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img src="slide_4.jpg" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="slide_4.jpg" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
