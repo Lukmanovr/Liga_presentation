@@ -1604,3 +1604,15 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+.blur_bg {
+  background-image: url('slide_1.jpg');
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  background-repeat: no-repeat;
+  background:red;
+  position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px; }
