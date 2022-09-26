@@ -13,7 +13,7 @@ data-background-repeat="no-repeat">}}
 ---
 
 {{% section %}}
-{{< slide background="#e9692c" transition="slide" transition-speed="fast" >}}
+{{< slide background="#e9692c" transition="slide" transition-speed="slow" >}}
 
 #### Elephant in the room?
 
@@ -282,3 +282,13 @@ while dealing with unstructured, large and complex data)
 ```
 
 ---
+
+<section data no-process
+data-background-iframe="https://rustam-lukmanov.com/"
+          data-background-interactive>
+
+<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<h2>This is my website</h2>
+						<p>Check it out for additional information on slides, publications and contact details .</p>
+					</div>
+</section>
