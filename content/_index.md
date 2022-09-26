@@ -3,11 +3,10 @@ title = "My presentation"
 outputs = ["Reveal"]
 +++
 
-<section data no-process>
-
-{{< slide id="1" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="Intro" background-image="blur.jpg" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
+<section data no-process>
 <img src="slide_1.jpg" alt="Girl in a jacket" width="850" height="600">
 </section>
 
