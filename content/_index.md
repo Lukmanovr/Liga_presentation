@@ -190,7 +190,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="14" background-image="dark_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="14" background-image="slide_12_blur.jpg" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -199,7 +199,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="15" background-image="dark_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="15" background-image="slide_13_blur.jpg" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -235,7 +235,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="19" background-image="dark_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="19" background-image="slide_13_blur.jpg" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -244,7 +244,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="20" background-image="dark_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="20" background-image="slide_13_blur.jpg" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -254,7 +254,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="21" background-image="dark_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="21" background-image="slide_13_blur.jpg" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
