@@ -3,15 +3,24 @@ title = "My presentation"
 outputs = ["Reveal"]
 +++
 
-{{< slide id="Hello" background-image="slide_1_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="Hello" background-image="slide_1_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.8); color: #fff; padding: 30px; font-size: 20px; text-align: left;">
-	<h2>Development of the space-LIMS prototype</h2>
+
+<div style="position: absolute; width: 50%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.8); color: #fff; padding: 25px; font-size: 20px; text-align: left;">
+	<h2 style= "color: white;">Development of the space-LIMS prototype</h2>
 	<p>Check out additional information on the last slide (publications and contact details) .</p>
 </div>
-<img style="border:1.5px solid black;"src="slide_1.jpg" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;"src="slide_intro.webp" alt="Girl in a jacket" width="850" height="600">
+ 
+<!-- speaker notes are here -->
+
+{{% note %}}
+
+- You found the **speaker notes**!
+  {{% /note %}}
+
 </section>
 
 ---
@@ -81,20 +90,20 @@ def conclusions (summarize)
 
 <section data no-process>
 
-{{< slide id="3" background-image="slide_3_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="3" background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img style="border:1.5px solid black;" src="slide_3.jpg" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="slide_3.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
 <section data no-process>
 
-{{< slide id="4" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="4" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img style="border:1.5px solid black;" src="slide_4.jpg" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="slide_4.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
@@ -111,30 +120,30 @@ def data (spectra, spectral_preprocessing)
 
 <section data no-process>
 
-{{< slide id="6" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="6" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img src="slide_5.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_5.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
 <section data no-process>
 
-{{< slide id="7" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="7" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img src="slide_6.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_6.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
 <section data no-process>
 
-{{< slide id="8" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="8" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img src="slide_7.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_7.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
@@ -149,129 +158,129 @@ def results (embeddings, ML and graphs)
 
 ---
 
-{{< slide id="9" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="9" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_8.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_8.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
-{{< slide id="10" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="10" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_9.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_9.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
-{{< slide id="11" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="11" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_10.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_10.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
-{{< slide id="12" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="12" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_11.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_11.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
-{{< slide id="13" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="13" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_11-2.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_11-2.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
-{{< slide id="14" background-image="slide_12_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="14" background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_12.jpg" alt="Girl in a jacket" width="850" height="590">
+<img src="slide_12.webp" alt="Girl in a jacket" width="850" height="590">
 </section>
 
 ---
 
-{{< slide id="15" background-image="slide_13_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="15" background-image="slide_13_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_13.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_13.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
-{{< slide id="16" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="16" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_14.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_14.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
-{{< slide id="17" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="17" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_15.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_15.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
-{{< slide id="18" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="18" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_16.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_16.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
-{{< slide id="19" background-image="slide_13_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="19" background-image="slide_13_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_17.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_17.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
-{{< slide id="20" background-image="slide_13_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="20" background-image="slide_13_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_18.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_18.webp" alt="Girl in a jacket" width="850" height="600">
 
 </section>
 
 ---
 
-{{< slide id="21" background-image="slide_13_blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="21" background-image="slide_13_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_19.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_19.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
 
-{{< slide id="22" background-image="blur.jpg" background="#FFD" data-background-size="contain"
+{{< slide id="22" background-image="blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_20.jpg" alt="Girl in a jacket" width="850" height="600">
+<img src="slide_20.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
