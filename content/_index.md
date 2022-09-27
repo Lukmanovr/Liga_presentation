@@ -7,6 +7,10 @@ outputs = ["Reveal"]
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
+<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.8); color: #fff; padding: 30px; font-size: 20px; text-align: left;">
+	<h2>Development of the space-LIMS prototype</h2>
+	<p>Check out additional information on the last slide (publications and contact details) .</p>
+</div>
 <img style="border:1.5px solid black;"src="slide_1.jpg" alt="Girl in a jacket" width="850" height="600">
 </section>
 
