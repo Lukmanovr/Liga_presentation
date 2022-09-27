@@ -47,7 +47,7 @@ even not sure about the quality, can data be relied upon?
 
 ---
 
-{{< slide background="#97cf8a" transition="zoom" transition-speed="fast" >}}
+{{< slide background="#97cf8a" transition="slide" transition-speed="fast" >}}
 
 #### Human tools for the data age?
 
@@ -66,7 +66,7 @@ Combination of data-viz and machine learning
 
 ---
 
-{{< slide background="#4A686A" transition="zoom" transition-speed="fast" >}}
+{{< slide background="#4A686A" transition="slide" transition-speed="fast" >}}
 
 #### Outline
 
