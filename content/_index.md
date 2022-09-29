@@ -3,7 +3,7 @@ title = "My presentation"
 outputs = ["Reveal"]
 +++
 
-{{< slide id="1" background-image="slide_1_blur.webp" background="#FFFFFF" data-background-size="contain"
+{{< slide id="1" background-image="slide_1_blur.webp" background="#FFF" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -26,9 +26,7 @@ data-background-repeat="no-repeat">}}
 ---
 
 {{% section %}}
-{{< slide id="2" slide background="#FFFFFF" transition="slide" transition-speed="slow" >}}
-
-#### Elephant in the room?
+{{< slide background="#FFF" transition="slide" transition-speed="slow" >}}
 
 ```python
 Most data is unstructured and unlabelled
@@ -40,18 +38,9 @@ sciences, especially in **chemistry** provides high predictive
 capacity, but have little descriptive power (black-box models)
 ```
 
-```javascript
-So what to do when you do not know labels of the data and
-even not sure about the quality, can data be relied upon?
-```
-
 ---
 
-{{< slide id="3" slide background="#FFFFFF" transition="slide" transition-speed="fast" >}}
-
-#### Human tools for the data age?
-
-<small><b>\*\*emphasis of the talk \*\*</b></small>
+{{< slide background="#FFF" transition="slide" transition-speed="fast" >}}
 
 ```python
 interactive graph intelligence vs. general
@@ -66,7 +55,7 @@ Combination of data-viz and machine learning
 
 ---
 
-{{< slide id="4" slide background="#4A686A" transition="slide" transition-speed="fast" >}}
+{{< slide background="#4A686A" transition="slide" transition-speed="fast" >}}
 
 #### Outline
 
@@ -90,7 +79,7 @@ def conclusions (summarize)
 
 <section data no-process>
 
-{{< slide id="5" background-image="slide_3_blur.webp" background="#FFFFFF" data-background-size="contain"
+{{< slide background-image="slide_3_blur.webp" background="#FFF" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <img style="border:1.5px solid black;" src="slide_3.webp" alt="Girl in a jacket" width="850" height="600">
@@ -100,7 +89,7 @@ data-background-repeat="no-repeat">}}
 
 <section data no-process>
 
-{{< slide id="6" background-image="slide_4_blur.webp" background="#FFF" data-background-size="contain"
+{{< slide background-image="slide_4_blur.webp" background="#FFF" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <img style="border:1.5px solid black;" src="slide_4.webp" alt="Girl in a jacket" width="850" height="600">
@@ -108,19 +97,19 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="7" background="#fccf55" transition="zoom" transition-speed="fast" >}}
+{{< slide background="#fccf55" transition="slide" transition-speed="fast" >}}
 
 #### Outline
 
 ```python
-def data (spectra, spectral_preprocessing)
+def data and results (spectral_preprocessing, graphs and ML)
 ```
 
 ---
 
 <section data no-process>
 
-{{< slide id="8" background-image="slide_5_blur.webp" background="#FFF" data-background-size="contain"
+{{< slide background-image="slide_5_blur.webp" background="#FFF" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <img src="slide_5.webp" alt="Girl in a jacket" width="850" height="600">
@@ -130,7 +119,7 @@ data-background-repeat="no-repeat">}}
 
 <section data no-process>
 
-{{< slide id="9" background-image="slide_7_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_7_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <img src="slide_7.webp" alt="Girl in a jacket" width="850" height="600">
@@ -138,17 +127,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="10" background="#fccf55" transition="zoom" transition-speed="fast" >}}
-
-#### Outline
-
-```python
-def results (embeddings, ML and graphs)
-```
-
----
-
-{{< slide id="11" background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="9" background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -157,7 +136,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="12" background-image="slide_11_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_11_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -166,7 +145,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="13" background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -175,7 +154,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="14" background-image="slide_13_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_13_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -184,7 +163,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="15" background-image="slide_14_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_14_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -193,7 +172,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="16" background-image="slide_15_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_15_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -202,7 +181,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="17" background-image="slide_16_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_16_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -211,7 +190,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="18" background-image="slide_17_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_17_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -220,7 +199,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="19" background-image="slide_18_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_18_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -230,7 +209,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="20" background-image="slide_19_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_19_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -239,7 +218,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="21" background="#fccf55" transition="zoom" transition-speed="fast" >}}
+{{< slide background="#fccf55" transition="zoom" transition-speed="fast" >}}
 
 #### Conclusion
 
