@@ -112,7 +112,7 @@ def data and results (spectral_preprocessing, graphs and ML)
 {{< slide background-image="slide_5_blur.webp" background="#FFF" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img src="slide_5.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="slide_5.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
@@ -122,7 +122,7 @@ data-background-repeat="no-repeat">}}
 {{< slide background-image="slide_7_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img src="slide_7.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="slide_7.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
@@ -131,7 +131,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_9.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="slide_9.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
@@ -140,7 +140,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_11.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="slide_11.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
@@ -167,7 +167,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_14.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="slide_14.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
@@ -176,7 +176,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_15.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="slide_15.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
@@ -185,7 +185,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img src="slide_16.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="slide_16.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
