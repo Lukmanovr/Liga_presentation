@@ -12,7 +12,7 @@ data-background-repeat="no-repeat">}}
 	<h2 style= "color: white;">Development of the space-LIMS prototype</h2>
 	<p>Check out additional information on the last slide (publications and contact details) .</p>
 </div>
-<img style="border:1.5px solid black;"src="slide_intro.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;"src="slide_1.webp" alt="Girl in a jacket" width="850" height="600">
  
 <!-- speaker notes are here -->
 
@@ -100,7 +100,7 @@ data-background-repeat="no-repeat">}}
 
 <section data no-process>
 
-{{< slide id="4" background-image="blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="4" background-image="slide_4_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <img style="border:1.5px solid black;" src="slide_4.webp" alt="Girl in a jacket" width="850" height="600">
@@ -120,7 +120,7 @@ def data (spectra, spectral_preprocessing)
 
 <section data no-process>
 
-{{< slide id="6" background-image="blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="6" background-image="slide_5_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <img src="slide_5.webp" alt="Girl in a jacket" width="850" height="600">
@@ -130,17 +130,7 @@ data-background-repeat="no-repeat">}}
 
 <section data no-process>
 
-{{< slide id="7" background-image="blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<img src="slide_6.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-<section data no-process>
-
-{{< slide id="8" background-image="blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="8" background-image="slide_7_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <img src="slide_7.webp" alt="Girl in a jacket" width="850" height="600">
@@ -158,16 +148,7 @@ def results (embeddings, ML and graphs)
 
 ---
 
-{{< slide id="9" background-image="blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img src="slide_8.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-{{< slide id="10" background-image="blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="10" background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -176,29 +157,11 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="11" background-image="blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img src="slide_10.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-{{< slide id="12" background-image="blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="12" background-image="slide_11_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
 <img src="slide_11.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-{{< slide id="13" background-image="blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img src="slide_11-2.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
@@ -221,7 +184,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="16" background-image="blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="16" background-image="slide_14_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -230,7 +193,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="17" background-image="blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="17" background-image="slide_15_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -239,7 +202,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="18" background-image="blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="18" background-image="slide_16_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -248,7 +211,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="19" background-image="slide_13_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="19" background-image="slide_17_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -257,7 +220,7 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="20" background-image="slide_13_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="20" background-image="slide_18_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
@@ -267,20 +230,11 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{< slide id="21" background-image="slide_13_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide id="21" background-image="slide_19_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
 <img src="slide_19.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-{{< slide id="22" background-image="blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img src="slide_20.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 
 ---
