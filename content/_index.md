@@ -7,7 +7,7 @@ outputs = ["Reveal"]
 data-background-repeat="no-repeat">}}
 
 <section>
-<img style="border:1.5px solid black;"src="pres_one/1_1.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;"src="liga_pres/AI TRENDS_RU/Slide1.PNG" alt="Girl in a jacket">
  
 <!-- speaker notes are here -->
 
@@ -24,16 +24,26 @@ data-background-repeat="no-repeat">}}
 {{< slide background="#FFF" transition="slide" transition-speed="slow" >}}
 
 ```python
-I will leave some time for questions
+ Вопросы можно и нужно задавать прямо во время лекции
 ```
 
 ```python
-This presentation is available online - https://griac.netlify.app/
+ Эта презентация есть онлайн
 ```
 
+---
 
-{{% /section %}}
+{{% /section %}} 
 
+<section data no-process
+data-background-iframe="https://rustam-lukmanov.com/"
+          data-background-interactive>
+
+<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<h2>This is my website</h2>
+						<p>Check it out for additional information on slides, publications and contact details .</p>
+					</div>
+</section>
 ---
 
 {{< slide background="#4A686A" transition="slide" transition-speed="fast" >}}
@@ -41,23 +51,22 @@ This presentation is available online - https://griac.netlify.app/
 #### Outline
 
 ```python
-Introduction - Habitable Mars and Europa
+ Введение - зачем нам ИИ?
 ```
 
 ```python
-Spectroscopy or Spectrometry
+ Какие тренды?
 ```
 
 ```python
-The technology gap
+ Из последнего
 ```
 
 ```python
-Conclusions
+ Выводы. Вопрос - ответ
 ```
 
 ---
-
 <section data no-process>
 
 {{< slide background-image="slide_3_blur.webp" background="#FFF" data-background-size="contain"
@@ -65,7 +74,6 @@ data-background-repeat="no-repeat">}}
 
 <img style="border:1.5px solid black;" src="pres_one/2_2.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
-
 ---
 
 <section data no-process>
