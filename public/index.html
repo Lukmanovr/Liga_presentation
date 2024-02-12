@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-	<meta name="generator" content="Hugo 0.101.0" />
+	<meta name="generator" content="Hugo 0.109.0">
     <meta charset="utf-8">
 <title>My presentation</title>
 
@@ -26,14 +26,10 @@
       data-background-image="slide_1_blur.webp"
       data-data-background-repeat="no-repeat"
       data-data-background-size="contain"
-      id="intro">
+      id="1">
   
-<section data no-process>
-<div style="position: absolute; width: 50%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.8); color: #fff; padding: 25px; font-size: 20px; text-align: left;">
-	<h2 style= "color: white;">Development of the space-LIMS prototype</h2>
-	<p>Check out additional information on the last slide (publications and contact details) .</p>
-</div>
-<img style="border:1.5px solid black;"src="slide_1.webp" alt="Girl in a jacket" width="850" height="600">
+<section >
+<img style="border:1.5px solid black;"src="pres_one/1_1.webp" alt="Girl in a jacket" width="850" height="600">
 <!-- speaker notes are here -->
 
 
@@ -51,18 +47,8 @@
       data-background="#FFF"
       data-transition="slide"
       data-transition-speed="slow">
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>Most data <span style="color:#f92672">is</span> unstructured <span style="color:#f92672">and</span> unlabelled
-</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>Conventional <span style="color:#f92672">/</span>AI<span style="color:#f92672">/</span> applied to problems <span style="color:#f92672">in</span> experimental natural
-</span></span><span style="display:flex;"><span>sciences, especially <span style="color:#f92672">in</span> <span style="color:#f92672">**</span>chemistry<span style="color:#f92672">**</span> provides high predictive
-</span></span><span style="display:flex;"><span>capacity, but have little descriptive power (black<span style="color:#f92672">-</span>box models)
-</span></span></code></pre></div></section>
-<section data-noprocess data-shortcode-slide
-      data-background="#FFF"
-      data-transition="slide"
-      data-transition-speed="fast">
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>interactive graph intelligence vs<span style="color:#f92672">.</span> general
-</span></span><span style="display:flex;"><span>exploratory data analysis
-</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>Combination of data<span style="color:#f92672">-</span>viz <span style="color:#f92672">and</span> machine learning
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>I will leave some time <span style="color:#66d9ef">for</span> questions
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>This presentation <span style="color:#f92672">is</span> available online <span style="color:#f92672">-</span> https:<span style="color:#f92672">//</span>griac<span style="color:#f92672">.</span>netlify<span style="color:#f92672">.</span>app<span style="color:#f92672">/</span>
 </span></span></code></pre></div>
 </section>
 </section>
@@ -73,10 +59,10 @@
       data-transition-speed="fast">
   
 <h4 id="outline">Outline</h4>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">intro</span> (instrument, lab_prototype)
-</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">data</span> (spectra, spectral_preprocessing)
-</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">results</span> (embeddings, ML <span style="color:#f92672">and</span> graphs)
-</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">conclusions</span> (summarize)
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>Introduction <span style="color:#f92672">-</span> Habitable Mars <span style="color:#f92672">and</span> Europa
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>Spectroscopy <span style="color:#f92672">or</span> Spectrometry
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>The technology gap
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>Conclusions
 </span></span></code></pre></div></section>
 <section data no-process>
 
@@ -84,10 +70,9 @@
       data-background="#FFF"
       data-background-image="slide_3_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="5">
+      data-data-background-size="contain">
   
-<img style="border:1.5px solid black;" src="slide_3.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_one/2_2.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
 <section data no-process>
@@ -96,56 +81,43 @@
       data-background="#FFF"
       data-background-image="slide_4_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="6">
+      data-data-background-size="contain">
   
-<img style="border:1.5px solid black;" src="slide_4.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_one/3_3.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
-
-<section data-noprocess data-shortcode-slide
-      data-background="#fccf55"
-      id="6-2"
-      data-transition="slide"
-      data-transition-speed="fast">
-  
-<h4 id="outline-1">Outline</h4>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">data</span> <span style="color:#f92672">and</span> results (spectral_preprocessing, graphs <span style="color:#f92672">and</span> ML)
-</span></span></code></pre></div></section>
 <section data no-process>
 
 <section data-noprocess data-shortcode-slide
       data-background="#FFF"
-      data-background-image="slide_5_blur.webp"
+      data-background-image="slide_3_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="7">
+      data-data-background-size="contain">
   
-<img src="slide_5.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_one/4_4.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
 <section data no-process>
 
 <section data-noprocess data-shortcode-slide
       data-background="#FFD"
-      data-background-image="slide_7_blur.webp"
+      data-background-image="slide_4_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="8">
+      data-data-background-size="contain">
   
-<img src="slide_7.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_one/5_5.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
 
 <section data-noprocess data-shortcode-slide
       data-background="#FFD"
-      data-background-image="slide_9_blur.webp"
+      data-background-image="slide_3_blur.webp"
       data-data-background-repeat="no-repeat"
       data-data-background-size="contain"
       id="9">
   
 <section data no-process>
-<img src="slide_9.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_one/6_6.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
 
@@ -153,35 +125,186 @@
       data-background="#FFD"
       data-background-image="slide_11_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="10">
+      data-data-background-size="contain">
   
 <section data no-process>
-<img src="slide_11.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_one/7_7.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
 
 <section data-noprocess data-shortcode-slide
       data-background="#FFD"
-      data-background-image="slide_12_blur.webp"
+      data-background-image="slide_7_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="13">
+      data-data-background-size="contain">
   
 <section data no-process>
-<img src="slide_12.webp" alt="Girl in a jacket" width="850" height="590">
+<img style="border:1.5px solid black;" src="pres_one/8_8.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
 
 <section data-noprocess data-shortcode-slide
       data-background="#FFD"
-      data-background-image="slide_13_blur.webp"
+      data-background-image="slide_3_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="14">
+      data-data-background-size="contain">
   
 <section data no-process>
-<img src="slide_13.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_one/9_9.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/10_10.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_3_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/11_11.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+
+<section data-shortcode-section>
+<section data-noprocess data-shortcode-slide
+      data-background="#FFF"
+      data-transition="slide"
+      data-transition-speed="slow">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>  Spectroscopy
+</span></span></code></pre></div>
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/12_12.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_3_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/13_13.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/14_14.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_3_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/15_15.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_3_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/16_16.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/17_17.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_3_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/18_18.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/19_19.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_3_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/20_20.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/21_21.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_3_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_one/22_22.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
 
@@ -189,83 +312,353 @@
       data-background="#FFD"
       data-background-image="slide_14_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="15">
+      data-data-background-size="contain">
   
 <section data no-process>
-<img src="slide_14.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_one/23_23.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
 
 <section data-noprocess data-shortcode-slide
       data-background="#FFD"
-      data-background-image="slide_15_blur.webp"
+      data-background-image="slide_9_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="16">
+      data-data-background-size="contain">
   
 <section data no-process>
-<img src="slide_15.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_one/24_24.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
 
 <section data-noprocess data-shortcode-slide
       data-background="#FFD"
-      data-background-image="slide_16_blur.webp"
+      data-background-image="slide_3_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="17">
+      data-data-background-size="contain">
   
 <section data no-process>
-<img src="slide_16.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_one/25_25.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
 
 <section data-noprocess data-shortcode-slide
       data-background="#FFD"
-      data-background-image="slide_17_blur.webp"
+      data-background-image="slide_9_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="18">
+      data-data-background-size="contain">
   
 <section data no-process>
-<img src="slide_17.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_one/26_26.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+
+<section data-shortcode-section>
+<section data-noprocess data-shortcode-slide
+      data-background="#FFF"
+      data-transition="slide"
+      data-transition-speed="slow">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>Thank you<span style="color:#f92672">.</span>
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>Questions <span style="color:#f92672">and</span> comments are encouraged
+</span></span></code></pre></div>
 </section>
 </section>
 
 <section data-noprocess data-shortcode-slide
       data-background="#FFD"
-      data-background-image="slide_18_blur.webp"
+      data-background-image="slide_9_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="19">
+      data-data-background-size="contain">
   
 <section data no-process>
-<img src="slide_18.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_two/1.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+
+<section data-shortcode-section>
+<section data-noprocess data-shortcode-slide
+      data-background="#FFF"
+      data-transition="slide"
+      data-transition-speed="slow">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>I will leave some time <span style="color:#66d9ef">for</span> questions
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>This presentation <span style="color:#f92672">is</span> available online (after first one)
+</span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> https:<span style="color:#f92672">//</span>griac<span style="color:#f92672">.</span>netlify<span style="color:#f92672">.</span>app<span style="color:#f92672">/</span>
+</span></span></code></pre></div>
 </section>
 </section>
 
 <section data-noprocess data-shortcode-slide
       data-background="#FFD"
-      data-background-image="slide_19_blur.webp"
+      data-background-image="slide_9_blur.webp"
       data-data-background-repeat="no-repeat"
-      data-data-background-size="contain"
-      id="20">
+      data-data-background-size="contain">
   
 <section data no-process>
-<img src="slide_19.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="pres_two/2.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/3.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/4.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/5.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/6.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/7.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/8.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/9.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/10.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_3_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/11.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/12.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/13.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/14.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/15.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/16.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/17.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_12_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid white;" src="pres_two/18.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_12_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid white;" src="pres_two/19.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/20.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_3_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/21.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_9_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid black;" src="pres_two/22.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_12_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid white;" src="pres_two/23.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_12_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid white;" src="pres_two/24.webp" alt="Girl in a jacket" width="850" height="600">
+</section>
+</section>
+
+<section data-noprocess data-shortcode-slide
+      data-background="#FFD"
+      data-background-image="slide_12_blur.webp"
+      data-data-background-repeat="no-repeat"
+      data-data-background-size="contain">
+  
+<section data no-process>
+<img style="border:1.5px solid white;" src="pres_two/25.webp" alt="Girl in a jacket" width="850" height="600">
 </section>
 </section>
 
 <section data-noprocess data-shortcode-slide
       data-background="#fccf55"
-      id="21"
       data-transition="zoom"
       data-transition-speed="fast">
   
-<h4 id="conclusion">Conclusion</h4>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">conclusion</span> (graphs are informative <span style="color:#f92672">and</span> insightful
-</span></span><span style="display:flex;"><span><span style="color:#66d9ef">while</span> dealing <span style="color:#66d9ef">with</span> unstructured, large <span style="color:#f92672">and</span> complex data)
+<h4 id="thank-you">Thank you</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="nohighlight" data-noescape><span style="display:flex;"><span>Questions <span style="color:#f92672">or</span> comments<span style="color:#e6db74">&#34;?&#34;</span> 
 </span></span></code></pre></div></section><section>
 <section data no-process
 data-background-iframe="https://rustam-lukmanov.com/"
