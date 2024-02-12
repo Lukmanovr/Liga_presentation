@@ -6,7 +6,7 @@ outputs = ["Reveal"]
 {{< slide id="1" background-image="slide_1_blur.webp" background="#FFF" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<section >
+<section>
 <img style="border:1.5px solid black;"src="pres_one/1_1.webp" alt="Girl in a jacket" width="850" height="600">
  
 <!-- speaker notes are here -->
