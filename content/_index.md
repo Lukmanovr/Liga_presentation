@@ -16,9 +16,9 @@ data-background-repeat="no-repeat">}}
 - You found the **speaker notes**!
   {{% /note %}}
 
-</section>
+--- 
 
----
+</section>
 
 {{% section %}}
 {{< slide background="#FFF" transition="slide" transition-speed="slow" >}}
@@ -31,9 +31,18 @@ data-background-repeat="no-repeat">}}
  Эта презентация есть онлайн
 ```
 
+{{% /section %}} 
+
 ---
 
-{{% /section %}} 
+{{% section %}}
+<section data-noprocess>
+  <h4>Зачем Сундар так много раз упомянул ИИ в своей презентации?</h4>
+  <iframe width="760" height="515" src="https://www.youtube.com/embed/-P-ein58laA?si=J5YrwBc50okhbzJ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</section>
+{{% /section %}}
+
+---
 
 <section data no-process
 data-background-iframe="https://rustam-lukmanov.com/"
@@ -44,6 +53,7 @@ data-background-iframe="https://rustam-lukmanov.com/"
 						<p>Check it out for additional information on slides, publications and contact details .</p>
 					</div>
 </section>
+
 ---
 
 {{< slide background="#4A686A" transition="slide" transition-speed="fast" >}}
@@ -67,13 +77,15 @@ data-background-iframe="https://rustam-lukmanov.com/"
 ```
 
 ---
+
 <section data no-process>
 
 {{< slide background-image="slide_3_blur.webp" background="#FFF" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <img style="border:1.5px solid black;" src="pres_one/2_2.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
+</section>	
+
 ---
 
 <section data no-process>
