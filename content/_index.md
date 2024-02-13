@@ -7,7 +7,7 @@ outputs = ["Reveal"]
 data-background-repeat="no-repeat">}}
 
 <section>
-<img style="border:1.5px solid black;"src="liga_pres/AI TRENDS_RU/Slide1.PNG" alt="Girl in a jacket">
+<img style="border:1.5px solid black;"src="liga_pres/AI TRENDS_2/Slide1.webp" alt="Girl in a jacket">
  
 <!-- speaker notes are here -->
 
@@ -83,7 +83,7 @@ data-background-iframe="https://rustam-lukmanov.com/"
 {{< slide background-image="slide_3_blur.webp" background="#FFF" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img style="border:1.5px solid black;" src="pres_one/2_2.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide2.webp">
 </section>	
 
 ---
@@ -93,7 +93,7 @@ data-background-repeat="no-repeat">}}
 {{< slide background-image="slide_4_blur.webp" background="#FFF" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img style="border:1.5px solid black;" src="pres_one/3_3.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide3.webp">
 </section>
 
 
@@ -104,7 +104,7 @@ data-background-repeat="no-repeat">}}
 {{< slide background-image="slide_3_blur.webp" background="#FFF" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img style="border:1.5px solid black;" src="pres_one/4_4.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide4.webp">
 </section>
 
 ---
@@ -114,7 +114,7 @@ data-background-repeat="no-repeat">}}
 {{< slide background-image="slide_4_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
-<img style="border:1.5px solid black;" src="pres_one/5_5.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide5.webp">
 </section>
 
 ---
@@ -123,7 +123,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/6_6.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide6.webp">
 </section>
 
 ---
@@ -132,7 +132,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/7_7.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide7.webp">
 </section>
 
 ---
@@ -142,7 +142,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/8_8.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide8.webp">
 </section>
 
 ---
@@ -151,7 +151,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/9_9.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide9.webp">
 </section>
 
 ---
@@ -160,7 +160,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/10_10.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide10.webp">
 </section>
 
 ---
@@ -169,38 +169,19 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/11_11.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide11.webp">
 </section>
 
 ---
 
-{{% section %}}
-{{< slide background="#FFF" transition="slide" transition-speed="slow" >}}
+<section data no-process
+data-background-iframe="https://arxiv.org/abs/1706.03762/"
+          data-background-interactive>
 
-```python
-  Spectroscopy
-```
-
-
-
-{{% /section %}}
-
----
-
-{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/12_12.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/13_13.webp" alt="Girl in a jacket" width="850" height="600">
+<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<h2>This is my website</h2>
+						<p>Check it out for additional information on slides, publications and contact details .</p>
+					</div>
 </section>
 
 ---
@@ -209,7 +190,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/14_14.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide12.webp">
 </section>
 
 ---
@@ -218,16 +199,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/15_15.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/16_16.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide13.webp">
 </section>
 
 ---
@@ -236,7 +208,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/17_17.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide14.webp">
 </section>
 
 ---
@@ -245,7 +217,16 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/18_18.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide15.webp">
+</section>
+
+---
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide16.webp">
 </section>
 
 ---
@@ -254,7 +235,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/19_19.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide17.webp">
 </section>
 
 ---
@@ -263,7 +244,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/20_20.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide18.webp">
 </section>
 
 ---
@@ -272,7 +253,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/21_21.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide19.webp">
 </section>
 
 ---
@@ -281,7 +262,25 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/22_22.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide20.webp">
+</section>
+
+---
+
+{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide21.webp">
+</section>
+
+---
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide22.webp">
 </section>
 
 ---
@@ -290,7 +289,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/23_23.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide23.webp">
 </section>
 
 ---
@@ -299,7 +298,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/24_24.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide24.webp">
 </section>
 
 ---
@@ -308,7 +307,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/25_25.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide25.webp">
 </section>
 
 ---
@@ -318,7 +317,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_one/26_26.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide26.webp">
 </section>
 
 ---
@@ -344,34 +343,7 @@ Questions and comments are encouraged
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/1.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-{{% section %}}
-{{< slide background="#FFF" transition="slide" transition-speed="slow" >}}
-
-```python
-I will leave some time for questions
-```
-
-```python
-This presentation is available online (after first one)
-- https://griac.netlify.app/
-```
-
-
-{{% /section %}}
-
----
-
-
-{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/2.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide27.webp">
 </section>
 
 ---
@@ -381,7 +353,77 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/3.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide28.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide29.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide30.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide31.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide32.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide33.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide34.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide35.webp">
 </section>
 
 ---
@@ -391,67 +433,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/4.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-
-{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/5.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-
-{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/6.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-
-{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/7.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-
-{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/8.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-
-{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/9.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-
-{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/10.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide36.webp">
 </section>
 
 ---
@@ -461,7 +443,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/11.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide37.webp">
 </section>
 
 ---
@@ -471,7 +453,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/12.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide38.webp">
 </section>
 
 ---
@@ -481,7 +463,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/13.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide39.webp">
 </section>
 
 ---
@@ -491,7 +473,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/14.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide40.webp">
 </section>
 
 ---
@@ -501,57 +483,7 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/15.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-
-{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/16.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-
-{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/17.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-
-{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid white;" src="pres_two/18.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-
-{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid white;" src="pres_two/19.webp" alt="Girl in a jacket" width="850" height="600">
-</section>
-
----
-
-
-{{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
-data-background-repeat="no-repeat">}}
-
-<section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/20.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide41.webp">
 </section>
 
 ---
@@ -561,7 +493,57 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/21.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide42.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide43.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide44.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide45.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide46.webp">
+</section>
+
+---
+
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide47.webp">
 </section>
 
 ---
@@ -571,40 +553,127 @@ data-background-repeat="no-repeat">}}
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid black;" src="pres_two/22.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide48.webp">
 </section>
 
 ---
 
 
-{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid white;" src="pres_two/23.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide49.webp">
 </section>
 
 ---
 
 
-{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid white;" src="pres_two/24.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide50.webp">
 </section>
 
 ---
 
 
-{{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
-<img style="border:1.5px solid white;" src="pres_two/25.webp" alt="Girl in a jacket" width="850" height="600">
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide51.webp">
 </section>
 
 ---
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide52.webp">
+</section>
+
+---
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide53.webp">
+</section>
+
+---
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide54.webp">
+</section>
+
+---
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide55.webp">
+</section>
+
+---
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide56.webp">
+</section>
+
+---
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide57.webp">
+</section>
+
+---
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide58.webp">
+</section>
+
+---
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide59.webp">
+</section>
+
+---
+
+{{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
+data-background-repeat="no-repeat">}}
+
+<section data no-process>
+<img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide60.webp">
+</section>
+
+---
+
+
+
+
+
+
 
 {{< slide background="#fccf55" transition="zoom" transition-speed="fast" >}}
 
