@@ -16,9 +16,23 @@ data-background-repeat="no-repeat">}}
 - You found the **speaker notes**!
   {{% /note %}}
 
---- 
 
+ 
 </section>
+
+<section data no-process
+data-background-iframe="https://rustam-lukmanov.com/"
+          data-background-interactive>
+
+<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<h2 style="font-weight: bold; color: white;">У меня есть блог</h2>
+						<p>Эту презентацию и мои контакты можно найти здесь.</p>
+					</div>
+</section>
+
+---
+
+
 
 {{% section %}}
 {{< slide background="#FFF" transition="slide" transition-speed="slow" >}}
@@ -30,7 +44,13 @@ data-background-repeat="no-repeat">}}
 ```python
  Эта презентация есть онлайн
 ```
+```python
+ У нас будет 1 большая лекция с перерывом на 10 минут
+```
 
+```python
+ <h1>Активное участие награждается шоколадкой</h1>
+```
 {{% /section %}} 
 
 ---
@@ -44,39 +64,6 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-<section data no-process
-data-background-iframe="https://rustam-lukmanov.com/"
-          data-background-interactive>
-
-<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
-						<h2>This is my website</h2>
-						<p>Check it out for additional information on slides, publications and contact details .</p>
-					</div>
-</section>
-
----
-
-{{< slide background="#4A686A" transition="slide" transition-speed="fast" >}}
-
-#### Outline
-
-```python
- Введение - зачем нам ИИ?
-```
-
-```python
- Какие тренды?
-```
-
-```python
- Из последнего
-```
-
-```python
- Выводы. Вопрос - ответ
-```
-
----
 
 <section data no-process>
 
@@ -170,18 +157,6 @@ data-background-repeat="no-repeat">}}
 
 <section data no-process>
 <img style="border:1.5px solid black;" src="liga_pres/AI TRENDS_2/Slide11.webp">
-</section>
-
----
-
-<section data no-process
-data-background-iframe="https://arxiv.org/abs/1706.03762/"
-          data-background-interactive>
-
-<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
-						<h2>This is my website</h2>
-						<p>Check it out for additional information on slides, publications and contact details .</p>
-					</div>
 </section>
 
 ---
@@ -322,23 +297,6 @@ data-background-repeat="no-repeat">}}
 
 ---
 
-{{% section %}}
-{{< slide background="#FFF" transition="slide" transition-speed="slow" >}}
-
-```python
-Thank you.
-```
-
-```python
-Questions and comments are encouraged
-```
-
-
-{{% /section %}}
-
----
-
-
 {{< slide background-image="slide_9_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
@@ -377,6 +335,19 @@ data-background-repeat="no-repeat">}}
 </section>
 
 ---
+
+{{% section %}}
+{{< slide background="#FFF" transition="slide" transition-speed="slow" >}}
+
+```python
+Сделаем перерыв на 10 минут?
+```
+
+
+{{% /section %}}
+
+---
+
 
 
 {{< slide background-image="slide_12_blur.webp" background="#FFD" data-background-size="contain"
@@ -651,6 +622,19 @@ data-background-repeat="no-repeat">}}
 
 ---
 
+<section data no-process
+data-background-iframe="https://www.figure.ai/"
+          data-background-interactive>
+
+<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<h2 style="font-weight: bold; color: white;">FIGURE AI</h2>
+						<p>Управляют роботом при помощи мультимодальных моделей.</p>
+            <p>Первый контракт на роботов сборщиков на заводе BMW.</p>
+					</div>
+</section>
+
+---
+
 {{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
@@ -660,36 +644,10 @@ data-background-repeat="no-repeat">}}
 
 ---
 
+
 {{< slide background-image="slide_3_blur.webp" background="#FFD" data-background-size="contain"
 data-background-repeat="no-repeat">}}
 
 <section data no-process>
 <img style="border:1.5px solid white;" src="liga_pres/AI TRENDS_2/Slide60.webp">
-</section>
-
----
-
-
-
-
-
-
-
-{{< slide background="#fccf55" transition="zoom" transition-speed="fast" >}}
-
-#### Thank you
-
-```python
-Questions or comments"?" 
-```
----
-
-<section data no-process
-data-background-iframe="https://rustam-lukmanov.com/"
-          data-background-interactive>
-
-<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
-						<h2>This is my website</h2>
-						<p>Check it out for additional information on slides, publications and contact details .</p>
-					</div>
 </section>
